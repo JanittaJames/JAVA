@@ -10,3 +10,4 @@ result of that race impacts the result of executing the critical section.
 Critical Sections
 ------------------
 Refer http://tutorials.jenkov.com/java-concurrency/race-conditions-and-critical-sections.html
+https://javarevisited.blogspot.com/2012/02/what-is-race-condition-in.html
