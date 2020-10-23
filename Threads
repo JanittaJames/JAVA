@@ -1,0 +1,12 @@
+Race condition
+--------------
+A race condition is a special condition that may occur inside a critical section. A critical section is a section of code that is executed by multiple 
+threads and where the sequence of execution for the threads makes a difference in the result of the concurrent execution of the critical section. 
+
+When the result of multiple threads executing a critical section may differ depending on the sequence in which the threads execute, the critical section 
+is said to contain a race condition. The term race condition stems from the metaphor that the threads are racing through the critical section, and that the 
+result of that race impacts the result of executing the critical section. 
+
+Critical Sections
+------------------
+Refer http://tutorials.jenkov.com/java-concurrency/race-conditions-and-critical-sections.html
